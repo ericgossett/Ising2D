@@ -1,9 +1,9 @@
-Ising2D
+##Ising2D
 =======
 
 A 2D Ising model of ferromagnetism using the Metropolis algorthim.
 
-Requirements
+##Requirements
 =======
 To graph the data using the python script plot.py the following libaries are required.
 
@@ -11,9 +11,9 @@ To graph the data using the python script plot.py the following libaries are req
 * scipy
 * matplotlib
 
-Output
+##Output
 =======
-the program saves measurements to a csv file. This file is read by
+The program saves measurements to a csv file. This file is read by
 the plot.py script to plot the following graphs. 
 
 #####Figure One:
