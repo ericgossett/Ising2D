@@ -21,6 +21,6 @@ the plot.py script to plot the following graphs.
 
 ![](Sample%20Plots/fig1.png?raw=true)
 #####Figure Two:
-  >The Above plot shows the specfic heat while below the magnetic suseptibility is displayed. dsfvdf
+  >The Above plot shows the specfic heat while below the magnetic suseptibility is displayed.
 
 ![](Sample%20Plots/fig2.png?raw=true)
