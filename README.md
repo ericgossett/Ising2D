@@ -16,11 +16,11 @@ Output
 the program saves measurements to a csv file. This file is read by
 the plot.py script to plot the following graphs. 
 
-#Figure One:
+#####Figure One:
   >The plot above shows the magnetization per site while the plot below shows the enegry per site. 
 
 ![](Sample%20Plots/fig1.png?raw=true)
-#Figure Two:
+#####Figure Two:
   >The Above plot shows the specfic heat while below the magnetic suseptibility is displayed. dsfvdf
 
 ![](Sample%20Plots/fig2.png?raw=true)
