@@ -1,7 +1,7 @@
 Ising2D
 =======
 
-A 2D Ising model of ferromagnetism using the Metropolis algorthim.
+A 2D Ising model of ferromagnetism using the Metropolis Algorthim.
 
 ##Requirements
 
